@@ -1,0 +1,16 @@
+C:\Users\rodri\OneDrive\Área de Trabalho\Uniron\programação orientada ao objeto\github\desafioaula2\bin\Debug\net5.0\desafioaula2.exe
+C:\Users\rodri\OneDrive\Área de Trabalho\Uniron\programação orientada ao objeto\github\desafioaula2\bin\Debug\net5.0\desafioaula2.deps.json
+C:\Users\rodri\OneDrive\Área de Trabalho\Uniron\programação orientada ao objeto\github\desafioaula2\bin\Debug\net5.0\desafioaula2.runtimeconfig.json
+C:\Users\rodri\OneDrive\Área de Trabalho\Uniron\programação orientada ao objeto\github\desafioaula2\bin\Debug\net5.0\desafioaula2.runtimeconfig.dev.json
+C:\Users\rodri\OneDrive\Área de Trabalho\Uniron\programação orientada ao objeto\github\desafioaula2\bin\Debug\net5.0\desafioaula2.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Uniron\programação orientada ao objeto\github\desafioaula2\bin\Debug\net5.0\ref\desafioaula2.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Uniron\programação orientada ao objeto\github\desafioaula2\bin\Debug\net5.0\desafioaula2.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\Uniron\programação orientada ao objeto\github\desafioaula2\obj\Debug\net5.0\desafioaula2.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Uniron\programação orientada ao objeto\github\desafioaula2\obj\Debug\net5.0\desafioaula2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Área de Trabalho\Uniron\programação orientada ao objeto\github\desafioaula2\obj\Debug\net5.0\desafioaula2.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Uniron\programação orientada ao objeto\github\desafioaula2\obj\Debug\net5.0\desafioaula2.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Área de Trabalho\Uniron\programação orientada ao objeto\github\desafioaula2\obj\Debug\net5.0\desafioaula2.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Uniron\programação orientada ao objeto\github\desafioaula2\obj\Debug\net5.0\desafioaula2.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Uniron\programação orientada ao objeto\github\desafioaula2\obj\Debug\net5.0\ref\desafioaula2.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Uniron\programação orientada ao objeto\github\desafioaula2\obj\Debug\net5.0\desafioaula2.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\Uniron\programação orientada ao objeto\github\desafioaula2\obj\Debug\net5.0\desafioaula2.genruntimeconfig.cache
